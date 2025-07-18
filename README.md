@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am Tony Mugendi, currently working as a Software Engineer at [Twiga Foods](https://www.twiga.com/). I am a Frontend JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Tony Mugendi. Fullstack engineer with 6+ years of experience building scalable, high-performance web
+applications using React, Next.js, Node.js, and PostgreSQL. Proven ability to deliver
+end-to-end features — from database design and API development to modern, intuitive
+UIs — in fast-paced, mission-critical environments. Strong advocate for code quality,
+performance, accessibility, and mentoring teams to achieve excellence.
 
 [![Linkedin Badge](https://img.shields.io/badge/-tony-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonymugendi/)](https://www.linkedin.com/in/tonymugendi/)
 [![Gmail Badge](https://img.shields.io/badge/-mugendi.tony26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mugendi.tony26@gmail.com)
