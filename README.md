@@ -17,7 +17,7 @@ performance, accessibility, and mentoring teams to achieve excellence.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tonymugendi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonymugendi&hide=TeX&layout=compact)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tonymugendi&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tonymugendi&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tonymugendi.tonymugendi)
